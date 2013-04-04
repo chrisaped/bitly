@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+
+th {
+  text-align: left;
+}
+
+
+
+.errors {
+  color: red;
+}
+
+ul.errors {
+  list-style-type: disc;
+}
